@@ -24,3 +24,8 @@ O(log n): Now I divide the class into two groups, then ask: “Is it on the left
 I might need to do the O(n2) search if only one student knows on which student the pen is hidden. I’d use the O(n) if one student had the pen and only they knew it. I’d use the O(log n) search if all the students knew, but would only tell me if I guessed the right side. 
 
 NOTE : We are interested in rate of growth of time with respect to the inputs taken during the program execution .
+
+![](images/ent1.jpeg)
+![](images/ent2.jpeg)
+![](images/ent3.jpeg)
+![](images/ent4.jpeg)
