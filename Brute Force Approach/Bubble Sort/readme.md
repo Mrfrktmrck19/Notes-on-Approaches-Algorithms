@@ -27,3 +27,5 @@ for i =1 to length[A] <br/>
 The space complexity for Bubble Sort is O(1), because only a single additional memory space is required i.e. for temp variable.
 ##  Time Complexity
 The always runs O(n^2) time even if the array is sorted. It can be optimized by stopping the algorithm if the inner loop didn’t cause any swap. 
+
+![](https://github.com/Mrfrktmrck19/Notes-on-Approaches-Algorithms/blob/main/images/bubblesort1.jpeg)
