@@ -18,6 +18,11 @@ Third Pass:  <br/>
 ( 1 2 4 5 8 ) –> ( 1 2 4 5 8 ) 
 ( 1 2 4 5 8 ) –> ( 1 2 4 5 8 ) 
 ( 1 2 4 5 8 ) –> ( 1 2 4 5 8 ) 
+### Pseudo Code
+for i =1 to length[A] <br/>
+&ensp;  for j = 1 to length[A-1-i] <br/>
+&ensp;&ensp;    if A[j]>A[j++] <br/>
+&ensp;&ensp;&ensp;      exchange(A[j],A[j++]) <br/>
 ##  Space Complexity
 The space complexity for Bubble Sort is O(1), because only a single additional memory space is required i.e. for temp variable.
 ##  Time Complexity
