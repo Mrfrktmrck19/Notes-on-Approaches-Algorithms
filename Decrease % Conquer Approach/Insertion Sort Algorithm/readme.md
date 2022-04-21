@@ -25,3 +25,7 @@ for j=2 to n  <br/>
 ##  Time Compexity
 Best Case O(n) <br/>
 Worst Case: O(n^2)  <br/>
+
+
+Note: <br/>
+Contrary to popular belief, Binary Search Algorithm does not under The Divide and Conquer. It's in Decrease and Conquer.
