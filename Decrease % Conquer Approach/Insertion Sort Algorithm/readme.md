@@ -22,6 +22,6 @@ for j=2 to n  <br/>
 &ensp;&ensp;&ensp; i--  <br/>
 &ensp;  A[i+1]=key  <br/>
 
-##Time Compexity
-Best Case O(n) 
-Worst Case: O(n^2)
+##  Time Compexity
+Best Case O(n) <br/>
+Worst Case: O(n^2)  <br/>
